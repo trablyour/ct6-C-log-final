@@ -420,3 +420,15 @@ $env:TASKMANAGER_ALERT_EMAIL = "admin@example.com"
 ## Технологии
 
 .NET 7 / C# 11 · Microsoft.Extensions.Logging · Microsoft.Extensions.DependencyInjection · Serilog (Console, File, Compact JSON, Seq) · Sentry · System.Diagnostics (TraceSource, Stopwatch, Activity)
+
+<img width="987" height="578" alt="папи7" src="https://github.com/user-attachments/assets/f2ba10fc-72f4-48d2-9475-022d539f0457" />
+<img width="663" height="791" alt="папи8" src="https://github.com/user-attachments/assets/5e24b74a-f661-4e12-a750-2e73d2bd041a" />
+<img width="227" height="181" alt="папи9" src="https://github.com/user-attachments/assets/4ef087bc-bbe2-4408-b31f-9d8211d1e26b" />
+<img width="1510" height="1173" alt="папи10" src="https://github.com/user-attachments/assets/382049eb-3e05-4666-ab40-21f09862b7fc" />
+<img width="563" height="1196" alt="папи11" src="https://github.com/user-attachments/assets/8f3824c6-66f9-4611-853c-447b28fb32c4" />
+<img width="1074" height="280" alt="папи1" src="https://github.com/user-attachments/assets/7773e011-8b07-4d4d-9ed9-f42ee573a6c7" />
+<img width="1085" height="401" alt="папи2" src="https://github.com/user-attachments/assets/3408de9d-753f-4adf-8bfc-4898e11d2f6b" />
+<img width="767" height="168" alt="папи3" src="https://github.com/user-attachments/assets/6ff28383-2fff-4d62-a8ae-f7c37557163a" />
+<img width="810" height="169" alt="папи4" src="https://github.com/user-attachments/assets/80dff104-2dab-47da-a5b0-36b744cf95ab" />
+<img width="896" height="262" alt="папи5" src="https://github.com/user-attachments/assets/2d452303-68f9-4873-9f55-0fea66139ccc" />
+<img width="1350" height="189" alt="папи6" src="https://github.com/user-attachments/assets/2a0869a9-7d25-43b4-b55a-a3abeb61a596" />
